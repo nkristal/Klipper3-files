@@ -1,12 +1,12 @@
-#Cheat Sheet
+# Cheat Sheet
 
 ## Python
 
-'''python
+```python
 import programing
 for item in items do:
     print item
-'''
+```
 
 ## Networking in Linux
 Available ip's:
